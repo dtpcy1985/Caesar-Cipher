@@ -1,5 +1,5 @@
-# Cryptography
-Simple Caesar Cipher
+# Casear Cipher
+Simple Caesar Cipher for cryptography class.
 
 Hash Digests:
 md5: 9456be51d9bd631db681239be06b1d97
